@@ -33,6 +33,32 @@ Users can configure multiple ON/OFF schedules for each relay channel directly fr
 * 🔐 Safe schedule validation and memory management
 * 🌅 Support for schedules that cross midnight
 
+## Prototype
+
+### Hardware Implementation
+
+![Hardware Enclosure](images/hardware-enclosure.jpg)
+
+The complete electronic system is assembled inside a compact enclosure containing the Arduino controller, DS3231 RTC, 16×2 I2C LCD, two-channel relay module, push buttons, buzzer, and supporting circuitry.
+
+### System Working
+
+![System Working](images/system-working.jpg)
+
+The LCD displays the current time and relay operating status during system operation.
+
+### Prototype Detail
+
+![Prototype Detail](images/prototype-detail.jpg)
+
+A closer view of the internal hardware arrangement, wiring, controller, RTC module, LCD, and relay section.
+
+### Final Installation
+
+![Final Installation](images/final-installation.jpg)
+
+The completed prototype is connected to an electrical switchboard for automated time-based control of electrical loads.
+
 ## System Architecture
 
 ```text
