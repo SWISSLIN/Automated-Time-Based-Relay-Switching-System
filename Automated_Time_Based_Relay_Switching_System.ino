@@ -187,7 +187,7 @@ unsigned long previousMillisDisplaySwitch = 0;
 const long intervalDisplaySwitch = 2000; // Alternate channel status every 2 seconds
 
 // --- Variables for Credits Mode ---
-const char* CREDITS_TEXT = " PROJECT BY SWISSLIN RAJ...! FOR MORE PROJECTS CONTACT : 6369907729  ";
+const char* CREDITS_TEXT = " PROJECT BY SWISSLIN RAJ...! FOR MORE PROJECTS : GITHUB.COM/SWISSLIN  ";
 unsigned long previousMillisScroll = 0;
 const long intervalScroll = 300; // Scroll speed (300ms per character shift)
 int scroll_position = 0;
