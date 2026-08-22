@@ -49,7 +49,7 @@ The LCD displays the current time and relay operating status during system opera
 
 ### Prototype Detail
 
-![Prototype Detail](images/prototype-detail.jpg)
+![Lcd Display](images/lcd-display.jpg)
 
 A closer view of the internal hardware arrangement, wiring, controller, RTC module, LCD, and relay section.
 
